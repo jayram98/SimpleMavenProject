@@ -13,4 +13,4 @@
 
 `mvn install`
  
-* I normally use this project for demonstration purposes in my training courses!
+* I normally use this project for demonstration purposes in my training courses!!
